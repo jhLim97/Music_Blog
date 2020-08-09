@@ -3,7 +3,7 @@ Study html, css, javascript and Make my own blog.
 
 I made my own blog with my favorite singers.
 
-<Main_Page> & <Blackpink> & <Red_Velvet>
+<Main_Page> & <Black_pink> & <Red_Velvet>
 ========================================
 <div>
 ![블로그_첫화면](https://user-images.githubusercontent.com/67899069/89726563-c2e43600-da56-11ea-924d-666190ff63eb.png)
