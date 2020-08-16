@@ -1,6 +1,5 @@
 # Music_Blog
 Study html, css, javascript and Make my own blog.
--> I made my own blog with my favorite singers.
 
 Click the images - <Main_Page> & <Black_pink> & <Red_Velvet>
 -------------------------------------------------
