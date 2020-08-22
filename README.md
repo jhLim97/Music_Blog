@@ -1,5 +1,5 @@
 # Music_Blog
-Study html, css, javascript and Make my own blog.
+Study html, css, javascript and Make my blog.
 
 Click the images - <Main_Page> & <Black_pink> & <Red_Velvet>
 -------------------------------------------------
